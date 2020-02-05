@@ -8,4 +8,4 @@ For IBM’s Fairness 360, see http://aif360.mybluemix.net/data
 
 For Aequitas, see http://aequitas.dssg.io 
 
-To properly test these tools, we'll be using the same dataset for evaluation: COMPAS
+To properly test these tools, we'll be using the COMPAS dataset for evaluation, since these three tools all share walkthroughs for this dataset.
