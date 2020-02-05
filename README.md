@@ -7,3 +7,5 @@ For Google’s What if Tool, see https://pair-code.github.io/what-if-tool/#demo-
 For IBM’s Fairness 360, see http://aif360.mybluemix.net/data 
 
 For Aequitas, see http://aequitas.dssg.io 
+
+To properly test these tools, we'll be using the same dataset for evaluation: COMPAS
