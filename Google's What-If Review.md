@@ -1,9 +1,11 @@
 # Google's What-If Tool Review
 
-Overview: Google's What-If tool is a visual interface for digging deeper into your machine learning models, regardless of your technical background. The tool offers various capabilities, including comparing model performance, comparing counterfactuals to datapoints, and testing pre-defined algorithmic fairness constraints. 
+## Overview 
+Google's What-If tool is a visual interface for digging deeper into your machine learning models, regardless of your technical background. The tool offers various capabilities, including comparing model performance, comparing counterfactuals to datapoints, and testing pre-defined algorithmic fairness constraints. 
 
 There are various web and Colab notebook demos available; for our purposes, we'll focus on the COMPAS Recidivism Classifier notebooks. Google offers two versions of this notebook: one with feature attributions (using the SHAP library) and another without these attributions. Both notebooks follow a similar workflow, so we'll show our walkthrough of the COMPAS with SHAP notebook.
 
+## Intro
 ![What-If Top](/images/whatif_1.png)
 
 Upon opening of the notebook, we see a description of the notebook contents, along with links to background content on ML fairness with COMPAS. This information, along with the additional context in this text block, does a good job of acquaiting the user with the appropriate use of the What-If tool. That being said, there are a couple of opportunities for improvment for non-technical audiences: 
