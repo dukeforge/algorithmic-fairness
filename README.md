@@ -4,7 +4,7 @@ A tour guide through some of the publicly available algorithmic fairness tools (
 
 For Google’s What-If Tool, see https://pair-code.github.io/what-if-tool/#demo-panel-all
 
-For IBM’s Fairness 360, see http://aif360.mybluemix.net/data 
+For IBM’s Fairness 360, see http://aif360.mybluemix.net/
 
 For Aequitas, see http://aequitas.dssg.io 
 
