@@ -35,7 +35,7 @@ The next tab shows performance curves (AUC & PR) and allow the user to adjust th
 ## Features
 ![What-If Features](/images/whatif_5.png)
 
-The final tab in this tool shows the distribution of features across the dataset. Immediately, I found the text hard to read; the gray text is very difficult to pick out on the white background. Additionally, I'm not entirely sure what the purpose of this tab is; I believe that it was intended to provide summary statistics on the various features in the dataset, but this data is just shown in a plain table. As a data scientist, I would simply create these plots/distributions myself, so I don't gain any additional information from this tab. For a non-technical user, this tab would only be useful if they had a specific question about the distribution of a certain feature, but this view does not lend itself for easy intepretation.
+The final tab in this tool shows the distribution of features across the dataset. Immediately, we found the text hard to read; the gray text is very difficult to pick out on the white background. Additionally, we were not entirely sure what the purpose of this tab was; we believe that it was intended to provide summary statistics on the various features in the dataset, but this data is just shown in a plain table. As data scientists, we would simply create these plots/distributions ourselves, so we don't gain any additional information from this tab. For a non-technical user, this tab would only be useful if they had a specific question about the distribution of a certain feature, but this view does not lend itself for easy intepretation.
 
 
 ## Additional Information
