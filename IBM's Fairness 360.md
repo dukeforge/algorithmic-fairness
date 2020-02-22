@@ -40,3 +40,4 @@ Fairness 360 offers access to a variety of tools and algorithms that are promine
 |     :---:                                                             |     :---:                                         |
 | Comprehensive API documentation and available notebooks               |  Lack of transparency and ability to interact with data  |
 | Mitigation page effectively summarizes bias algorithms                | Bias reduction graphs are confusing and opaque                     
+| Provides references and information about further research               | Limited features and fairness insights                     
