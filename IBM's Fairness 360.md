@@ -1,4 +1,4 @@
-# IBM's Fairness 360 Review
+# [IBM's Fairness 360](http://aif360.mybluemix.net/) Review
 
 ## Overview 
 IBM's Fairness 360 is a toolkit with videos, notebook demos, and other resources to assist machine learning practicioners with evaluating their mdoels. 
