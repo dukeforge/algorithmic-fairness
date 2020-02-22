@@ -8,13 +8,13 @@ Apart from the notebook demos, there are also two comprehensive tutorials that w
 
 Our focus will be on the COMPAS demo, which can be accessed by clicking on the 'Demo' tab at the top of the page and selecting the COMPAS dataset in the first step.
 
-## Intro (Check)
+## Check
 
 ![IBM 360 1](/images/360_1.png)
 
 The demo is organized in a wizard-like manner, allowing the user to move forward or backward in the wizard using the 'Back' or 'Next' tab. 
 
-After clicking on 'Compas' from the 'Date' page and hitting next, the wizard shows a loading page with text for 'Loading classifier' and 'Checking bias'. Once loaded, we see the screen shown above where we can view the bias metrics across two categories in the dataset: Sex and Race. It would have been nice to have more flexibility here so that the user could specify their variable of choice, because this view seems a bit limited and pre-selected.
+After clicking on 'Compas' from the 'Date' page and hitting next, the wizard shows a loading page with text for 'Loading classifier' and 'Checking bias'. Once loaded, we see the Check screen shown above where we can view the bias metrics across two categories in the dataset: Sex and Race. It would have been nice to have more flexibility here so that the user could specify their variable of choice, because this view seems a bit limited and pre-selected.
 
 The same graph is shown for the various bias measures, with a threshold for 'Fair' and all area below this threshold marked as 'Bias'. The information is summarized above the graphs; in the case of 'Sex', the tool tells us that bias against the unprivileged group (Male) was detected in 4 out of the 5 metrics. At first sight, we found these graphs to be difficult to compare and intepret. There were information buttons that provided a description of the metric, so we appreciated that and were able to better intepret the graphs after reading all of these boxes, but this information could have been presented in a cleaner, easier way. Additionally, all of the graphs are static images and are not sized well, putting more burden upon the user.
 
