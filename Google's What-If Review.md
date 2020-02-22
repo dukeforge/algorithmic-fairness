@@ -1,4 +1,4 @@
-# Google's What-If Tool Review
+# [Google's What-If Tool](https://pair-code.github.io/what-if-tool/#demo-panel-all) Review
 
 ## Overview 
 Google's What-If tool is a visual interface for digging deeper into your machine learning models, regardless of your technical background. The tool offers various capabilities, including comparing model performance, comparing counterfactuals to datapoints, and testing pre-defined algorithmic fairness constraints. 
