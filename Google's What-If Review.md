@@ -30,7 +30,7 @@ The variable names are kept from the raw data, and there isn't any explanation o
 ## Performance & Fairness
 ![What-If Performance & Fairness](/images/whatif_4.png)
 
-The next tab shows performance curves (AUC & PR) and allow the user to adjust the threshold value to visualize the difference in the false positive and false negative rate. This is an important consideration as a data scientist (or model user), and I'm a huge fan of how this view was created. Each of the configuration options are clearly explained, with hyperlinks for more information and context. Using the slider to adjust the treshold and view the decision criteria change on the graph was also simple and easy to use and understand. 
+The next tab shows performance curves (AUC & PR) and allow the user to adjust the threshold value to visualize the difference in the false positive and false negative rate. This is an important consideration as a data scientist (or model user), and we're huge fans of how this view was created. Each of the configuration options are clearly explained, with hyperlinks for more information and context. Using the slider to adjust the treshold and view the decision criteria change on the graph was also simple and easy to use and understand. 
 
 ## Features
 ![What-If Features](/images/whatif_5.png)
