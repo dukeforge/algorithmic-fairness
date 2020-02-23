@@ -44,7 +44,7 @@ Similar to the other tools we've reviewed, the authors provided a [Github reposi
 
 ## Overview
 
-We were impressed with Aequitas on COMPAS overall, finding it to be very user-friendly and informative. Cleaning up broken links and integrating more graphic visuals into the Bias Report would greatly improve the usefulness of the tool, and while we dug deeper into the API details and Github repo, most users might not ever get to this information. Integrating this information into the web demo and creating interactive notebooks for users to walk through would ensure that the benefits of the tool are properly showcased. 
+We were impressed with Aequitas on COMPAS overall, finding it to be very user-friendly and informative. Cleaning up broken links and integrating more graphic visuals into the Bias Report would greatly improve the usefulness of the tool, and while we dug deeper into the API details and Github repo, most users might never get to this information. Integrating this information into the web demo and creating interactive notebooks for users to walk through would ensure that the benefits of the tool are properly showcased. 
 
 |     Pros                                                              |     Cons                                          |
 |     :---:                                                             |     :---:                                         |
