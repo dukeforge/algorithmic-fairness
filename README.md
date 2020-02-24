@@ -1,12 +1,12 @@
 # Algorithmic Fairness Tools Review
 
-## What?
-A guide through some of the publicly available algorithmic fairness tools (Google's What If, IBM's Fairness 360, and Aequitas).
+## Overview
+A guide through some publicly available algorithmic fairness tools (Google's What If, IBM's Fairness 360, and Aequitas).
 
-## Why?
+## Purpose
 Data is ubiquitous and various stakeholders are using data modeling tools to better understand that data and to make decisions. Currently, there is an unprecidented combination of large data volume, fast and cheap computing resources, and financial, political, and social incentives to answer questions using data. However, with any form of statistical inference comes the potential for error, bias, misrepresentation, and/or opacity (among many other potential pitfalls). Due to the fact that the decisions made from models can cause harm and perpetuate existing social biases, all stakeholders need tools to interrogate data models and evaluate them for instances of such bias. 
 
-## The Data
+## Data
 In our approach to evaluation, we decided to assess the algorithmic fairness tools on the same set of data: COMPAS (Correctional Offender Management Profiling for Alternative Sanctions). COMPAS was designed as a tool to predict the risk of recidivism for individuals who have criminal history and/or spent time in jail or prison. The data were used by Northpointe, Inc. to discover the underlying accuracy of their recidivism algorithm and to test whether the algorithm was biased against certain groups. These data are provided by [ProPublica](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis) as part of their reporting on bias in machine learning models. We chose this dataset because each of the three bias evaluation tools had examples that featured this dataset, thus making side-by-side comparisons more valid. 
 
 ## Models
