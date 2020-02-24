@@ -1,4 +1,4 @@
-# algorithmic-fairness
+# Algorithmic Fairness Tools Review
 
 ## What?
 A guide through some of the publicly available algorithmic fairness tools (Google's What If, IBM's Fairness 360, and Aequitas).
