@@ -15,7 +15,7 @@ Data models can take many shapes and sizes. They range in complexity from classi
 ## Evaluation
 Once we build our model and train it, the final goal is to show it new, unseen data and evaluate its "performance". By performance, we mean using a menu of measurements that help the model-builder understand how good the model is at predicting an outcome (when compared to the actual known outcome of interest). As you will see in our multiple examples, there are a long list of performance metrics. 
 
-But, the entire point of bias evaluation is to also ask a different set of probing questions. There are an additional set of measurements that are used for delving into how specific parameters (e.g., race) influence the model's predicted outcomes. For example, a model might have a True Positive Rate (or, Recall) of 90%, but we might be interested in also asking the question of "how does a given variable impact that performance or the final prediction?" We will get a better idea of these overlapping model metrics as we dive in to the different tools. 
+But, the entire point of bias evaluation is to also ask a different set of probing questions. There are an additional set of measurements that are used for delving into how specific parameters (e.g., race) influence the model's predicted outcomes. For example, a model might have a True Positive Rate (or, Recall) of 90%, but we might be interested in also asking the question of "How does a given variable impact that performance or the final prediction?" We will get a better idea of these overlapping model metrics as we dive in to the different tools. 
 
 ## Tools
 [Google’s What-If Tool](https://pair-code.github.io/what-if-tool/#demo-panel-all)
