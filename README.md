@@ -25,7 +25,7 @@ Once we build our model and train it, the final goal is to show it new, unseen d
 
 But, the entire point of bias evaluation is to also ask a different set of probing questions. There are an additional set of measurements that are used for delving into how specific parameters (e.g., race) influence the model's predicted outcomes. For example, a model might have a True Positive Rate (or, Recall) of 90%, but we might be interested in also asking the question of "How does a given variable impact that performance or the final prediction?" We will get a better idea of these overlapping model metrics as we dive into the different tools. 
 
-## Tools
+## Links to Tools
 [Google’s What-If Tool](https://pair-code.github.io/what-if-tool/#demo-panel-all)
 
 [IBM’s Fairness 360](http://aif360.mybluemix.net/)
