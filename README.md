@@ -3,6 +3,14 @@
 ## Overview
 A guide through some publicly available algorithmic fairness tools (Google's What If, IBM's Fairness 360, and Aequitas).
 
+## Reviews
+[Google's What-if Review](Google's%20What-If%20Review.md)
+
+[IBM's Fairness 360 Review](IBM's%20Fairness%20360.md)
+
+[Aequitas Review](Aequitas%20Review.md)
+
+
 ## Purpose
 Data is ubiquitous and various stakeholders are using data modeling tools to better understand that data and to make decisions. Currently, there is an unprecidented combination of large data volume, fast and cheap computing resources, and financial, political, and social incentives to answer questions using data. However, with any form of statistical inference comes the potential for error, bias, misrepresentation, and/or opacity (among many other potential pitfalls). Due to the fact that the decisions made from models can cause harm and perpetuate existing social biases, all stakeholders need tools to interrogate data models and evaluate them for instances of such bias. 
 
