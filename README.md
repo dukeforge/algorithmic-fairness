@@ -1,6 +1,6 @@
 # Algorithmic Fairness Tools Review
 
-**Table of Contents**
+## **Table of Contents**
   - [Overview](#overview)
   - [Reviews](#reviews)
   - [Purpose](#purpose)
