@@ -40,3 +40,6 @@ But, the entire point of bias evaluation is to also ask a different set of probi
 [IBM’s Fairness 360](http://aif360.mybluemix.net/)
 
 [Aequitas](http://aequitas.dssg.io)
+
+___
+This work was sponsored by the [Moore Foundation](https://www.moore.org)
